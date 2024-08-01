@@ -24,7 +24,7 @@ The Expense Tracking Database Management System `DBMS` project is a user-friendl
      ```
    - Clone the forked repository from your account:
      ```bash
-     git clone https://github.com/EbeyJoeRegi/Personal-Expense-Tracker.git
+     git clone https://github.com/Anjalita/Personal-Expense-Tracker.git
      ```
 
 5. **Setting up the Database :**
